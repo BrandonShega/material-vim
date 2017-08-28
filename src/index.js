@@ -1,7 +1,7 @@
-const uiGroups = require('nova-colors').uiGroups
-const syntaxGroups = require('nova-colors').syntaxGroups
-const ansiGroups = require('nova-colors').ansiGroups
-const versionControlGroups = require('nova-colors').versionControlGroups
+const uiGroups = require('material-theme-colors').uiGroups
+const syntaxGroups = require('material-theme-colors').syntaxGroups
+const ansiGroups = require('material-theme-colors').ansiGroups
+const versionControlGroups = require('material-theme-colors').versionControlGroups
 
 const sourceString = `
 " ==================================================================
