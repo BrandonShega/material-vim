@@ -1,13 +1,8 @@
-# nova-vim
+# material-vim
 
-Nova color scheme plugin for Vim
+Material color scheme plugin for vim
 
-![Screenshot](/assets/screenshot.png?raw=true "Screenshot")
+## Credit
+All credit goes to Trevor D. Miller <trevordmiller@icloud.com>
+[https://www.trevordmiller.com](https://www.trevordmiller.com)
 
-## Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md)
-
-## More info
-
-**See the [documentation website](https://trevordmiller.com/projects/nova) for more information**
