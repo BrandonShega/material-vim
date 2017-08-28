@@ -1,7 +1,7 @@
 {
-  "name": "nova-vim",
-  "version": "3.10.0",
-  "main": "colors/nova.vim",
+  "name": "material-vim",
+  "version": "1.0.0",
+  "main": "colors/material.vim",
   "scripts": {
     "dev": "watch 'npm run build' src",
     "verify": "npm run lint && npm run build",
@@ -26,6 +26,6 @@
     "watch": "0.19.2"
   },
   "dependencies": {
-    "nova-colors": "^2.1.5"
+    "material-colors": "^1.0.2"
   }
 }
