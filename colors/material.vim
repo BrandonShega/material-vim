@@ -25,7 +25,7 @@ set termguicolors
 set fillchars+=vert:│
 syntax on
 syntax reset
-let g:colors_name = "nova"
+let g:colors_name = "material"
 call s:highlight_helper("Normal", "#FFFFFF", "")
 
 " NEOVIM TERMINAL MODE
@@ -39,11 +39,11 @@ let g:terminal_color_6 = "#64FCDA"
 let g:terminal_color_7 = "#FFFFFF"
 let g:terminal_color_8 = "#B0BEC5"
 let g:terminal_color_9 = "#FF8A80"
-let g:terminal_color_10 = "#69F0AE"
-let g:terminal_color_11 = "#FFD740"
-let g:terminal_color_12 = "#40C4FF"
+let g:terminal_color_10 = "#B9F6CA"
+let g:terminal_color_11 = "#FFE57F"
+let g:terminal_color_12 = "#80D8FF"
 let g:terminal_color_13 = "#FF80AB"
-let g:terminal_color_14 = "#64FCDA"
+let g:terminal_color_14 = "#A7FDEB"
 let g:terminal_color_15 = "#FFFFFF"
 
 

@@ -29,7 +29,7 @@ set termguicolors
 set fillchars+=vert:│
 syntax on
 syntax reset
-let g:colors_name = "nova"
+let g:colors_name = "material"
 call s:highlight_helper("Normal", "${uiGroups.foreground}", "")
 
 " NEOVIM TERMINAL MODE
